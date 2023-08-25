@@ -1,0 +1,92 @@
+/*fondo body*/
+#body {
+    background-image: url("../emiliaColeMateriales/img/home.jpg");
+    /* background-size:cover; */
+    background-size: 900px;
+    background-repeat: no-repeat;
+    background-position: right top;
+    height: 600px;
+}
+/*fondo */
+#textoEspecial {
+    background-color: rgba(249, 249, 249, 0.437);
+    font-family: "Raleway", sans-serif;
+}
+
+index
+
+
+/* fondo body */
+#cuerpo {
+    background-image: url(../emiliaColeMateriales/img/about.jpg);
+
+/* backround-size: cover; */
+background-size: 900px;
+background-repeat: no-repeat;
+background-position: right top;
+height: 600px;
+}
+
+#h2 {
+    color: darkcyan;
+    background-color: rgba(249, 249, 249, 0.437);
+    font-family: "Open Sans", sans-serif;
+}
+#h4{
+    color: darkcyan;
+    background-color: rgba(249, 249, 249, 0.437);
+    font-family: "Open Sans", sans-serif;
+}
+/* regla */
+.listaOrdenada li {
+    list-style: none;
+}
+
+/* fondo body */
+#fondo {
+    background-size: 1000px;
+}
+/* regla */
+.listaOrdenada li{
+    list-style: none;
+    text-decoration: none;
+}
+/* regla mapa */
+#mapa {
+    height: 400px;
+    width: 100%;
+}
+/* color de la letra */
+.azul{
+    color: cadetblue;
+}
+#titulo{
+    font-family: "Raleway", sans-serif;
+    text-size-adjust: 800px;
+}
+#musica{
+    font-family: "Raleway", sans-serif;
+}
+#emilia {
+    font-family: "Work Sans", sans-serif;
+}
+#contact{
+    font-family: "Raleway", sans-serif;
+    font-weight: 100000;
+}
+#contacto{
+    font-family: "Raleway", sans-serif;
+}
+a { 
+    text-decoration: none;
+    color: black;
+}
+.listaOrdenada {
+    list-style: none;
+}
+#lista{
+    list-style: none;
+}
+#letracomun {
+    font-family: "Open Sans", sans-serif;
+}
